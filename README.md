@@ -39,9 +39,7 @@ _The dataset for this competition is a relational set of files describing custom
     3. "test": test data reserved for machine learning competitions (~75k orders)
 
 
-For more information, see the blog post accompanying its public release.
-[Blog](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2)
-[Data](https://www.instacart.com/datasets/grocery-shopping-2017)
+For more information, see the [blog post](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2) accompanying its public [data](https://www.instacart.com/datasets/grocery-shopping-2017) release.
 
 >*The dataset is provided as-is for non-commercial use and is subject to Instacart's Terms of Service.*
 
